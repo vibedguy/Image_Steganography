@@ -6,12 +6,20 @@ Download all files and use in local system.
 
 Flask based web page and Python script used.
 
+Folder Structure:
+
 Image_Steganography/
+
 ├── app.py
+
 ├── templates/
+
 │   ├── index.html
+
 │   ├── encrypt.html
+
 │   └── decrypt.html
+
 
 
 Run the "app.py" 
