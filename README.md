@@ -1,7 +1,9 @@
 # Image_Steganography
 
 In this project can able to encrypt a message in image and to decrypt a message.
+
 Download all files and use in local system.
+
 Flask based web page and Python script used.
 
 Run the "app.py" 
